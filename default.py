@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# please visit JadViE Studio's Emby
+# please visit JadViE Studio's Kodi
 
 import xbmc,xbmcgui,xbmcplugin,sys
 
