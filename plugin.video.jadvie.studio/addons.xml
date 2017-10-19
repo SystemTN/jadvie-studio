@@ -1,0 +1,17 @@
+<addon id="plugin.video.jadvie.studio"
+       version="0.0.1"
+       name="JadViE Studio"
+       provider-name="JadViE Studio">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" optional="true" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>JadViE Studio</summary>
+    <description>Kho phim giải trí của JadViE Studio - Tất cả nội dung được lấy từ Internet vì vậy chúng tôi không chịu trách nhiệm về chất lượng cũng như sự ổn định - JadViE chỉ dịch thuật hoặc thuyết minh tiếng Việt.</description>
+	<disclaimer lang="en">Tất cả nội dung được lấy từ Internet vì vậy chúng tôi không chịu trách nhiệm về chất lượng cũng như sự ổn định.</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
