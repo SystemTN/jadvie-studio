@@ -1,6 +1,7 @@
-<addon id="plugin.video.jadvie.studio"
+<addons>
+	<addon id="plugin.video.jadvie.studio"
        version="0.0.1"
-       name="JadViE Studio VIP"
+       name="JadViE Studio"
        provider-name="SystemTN @JadViE Studio">
   <requires>
     <import addon="xbmc.python" version="2.1.0" optional="true" />
@@ -15,3 +16,4 @@
     <platform>all</platform>
   </extension>
 </addon>
+</addons>
