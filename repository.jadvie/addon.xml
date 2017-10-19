@@ -12,7 +12,7 @@
 		name="[COLOR pink][B]JadViE Studio Repository[/B][/COLOR]">
 		<info compressed="true">https://raw.githubusercontent.com/SystemTN/jadvie-studio/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/SystemTN/jadvie-studio/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/SystemTN/jadvie-studio/tree/master/zip</datadir>
+		<datadir zip="true">https://github.com/SystemTN/jadvie-studio/raw/master/zip</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">JadViE Studio</summary>
