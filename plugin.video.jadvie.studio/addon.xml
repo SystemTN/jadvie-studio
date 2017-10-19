@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-	<addon id="plugin.video.jadvie.studio"
+<addon id="plugin.video.jadvie.studio"
        version="0.0.1"
        name="[COLOR pink]* JadViE Studio *[/COLOR]"
        provider-name="SystemTN @JadViE Studio">
