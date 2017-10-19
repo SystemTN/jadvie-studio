@@ -9,14 +9,14 @@
 		<import addon="xbmc.addon" version="12.0.0"/>
 	</requires>
 	<extension point="xbmc.addon.repository"
-		name="* [COLOR pink]JadViE Studio[/COLOR] Add-on Repository *">
-		<info compressed="true">https://raw.githubusercontent.com/SystemTN/jadvie-studio/master/addons.xml</info>
+		name="[COLOR pink]JadViE Studio[/COLOR] Add-on Repository">
+	<info compressed="true">https://raw.githubusercontent.com/SystemTN/jadvie-studio/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/SystemTN/jadvie-studio/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/SystemTN/jadvie-studio/raw/master/zip</datadir>
+		<datadir zip="true">https://github.com/SystemTN/jadvie-studio/raw/master/zip/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">JadViE Studio</summary>
-		<description lang="en">Kho phim giải trí của JadViE Studio</description>
+		<description lang="en">Cập nhật phim chiếu rạp với phụ đề Việt hoặc Thuyết minh bởi JadViE Studio sớm nhất.</description>
 		<disclaimer lang="en">Tất cả nội dung được lấy từ Internet vì vậy chúng tôi không chịu trách nhiệm về chất lượng cũng như sự ổn định - JadViE chỉ dịch thuật hoặc thuyết minh tiếng Việt.</disclaimer>
 		<email>jadvie@nethd.org</email>
 		<platform>all</platform>
