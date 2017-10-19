@@ -1,4 +1,5 @@
-<addon id="plugin.video.jadvie.studio"
+<addons>
+	<addon id="plugin.video.jadvie.studio"
        version="0.0.1"
        name="JadViE Studio"
        provider-name="jadvie member">
@@ -15,3 +16,4 @@
     <platform>all</platform>
   </extension>
 </addon>
+	</addons>
