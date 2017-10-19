@@ -2,21 +2,21 @@
 
 <addon
 	id="repository.jadvie"
-	version="0.0.2"
-	name="[COLOR pink][B]JadViE Studio Repository[/B][/COLOR]"
-	provider-name="jadvie">
+	version="0.0.1"
+	name="[COLOR pink]JadViE Studio[/COLOR] Add-on Repository"
+	provider-name="SystemTN @JadViE Studio">
 	<requires>
 		<import addon="xbmc.addon" version="12.0.0"/>
 	</requires>
 	<extension point="xbmc.addon.repository"
-		name="[COLOR pink][B]JadViE Studio Repository[/B][/COLOR]">
+		name="* [COLOR pink]JadViE Studio[/COLOR] Add-on Repository *">
 		<info compressed="true">https://raw.githubusercontent.com/SystemTN/jadvie-studio/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/SystemTN/jadvie-studio/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://github.com/SystemTN/jadvie-studio/raw/master/zip</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">JadViE Studio</summary>
-		<description lang="en">Kho phim giải trí của JadViE Studio - Tất cả nội dung được lấy từ Internet vì vậy chúng tôi không chịu trách nhiệm về chất lượng cũng như sự ổn định - JadViE chỉ dịch thuật hoặc thuyết minh tiếng Việt.</description>
+		<description lang="en">Kho phim giải trí của JadViE Studio</description>
 		<disclaimer lang="en">Tất cả nội dung được lấy từ Internet vì vậy chúng tôi không chịu trách nhiệm về chất lượng cũng như sự ổn định - JadViE chỉ dịch thuật hoặc thuyết minh tiếng Việt.</disclaimer>
 		<email>jadvie@nethd.org</email>
 		<platform>all</platform>
