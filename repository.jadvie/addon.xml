@@ -2,7 +2,7 @@
 
 <addon
 	id="repository.jadvie"
-	version="0.0.1"
+	version="0.0.2"
 	name="[COLOR pink][B]JadViE Studio Repository[/B][/COLOR]"
 	provider-name="jadvie">
 	<requires>
