@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="JadViE Studio" name="* JadViE Studio" version="0.1" provider-name="JadViE Studio">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>JadViE Studio</summary>
+    <description>Kho phim moi cua JadViE Studio</description>
+  </extension>
+</addon>
