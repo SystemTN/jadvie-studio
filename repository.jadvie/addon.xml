@@ -1,24 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <addon
-	id="repository.jadvie"
+	id="repository.jadvie.studio"
 	version="0.0.1"
-	name="[COLOR pink]JadViE Studio[/COLOR] Add-on Repository"
+	name="*[COLOR pink]JadViE Studio Add-on Repository[/COLOR]*"
 	provider-name="SystemTN @JadViE Studio">
 	<requires>
 		<import addon="xbmc.addon" version="12.0.0"/>
 	</requires>
 	<extension point="xbmc.addon.repository"
-		name="[COLOR pink]JadViE Studio[/COLOR] Add-on Repository">
-	<info compressed="true">https://raw.githubusercontent.com/SystemTN/jadvie-studio/master/addons.xml</info>
+		name="*[COLOR pink]JadViE Studio Add-on Repository[/COLOR]*">
+		<info compressed="true">https://raw.githubusercontent.com/SystemTN/jadvie-studio/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/SystemTN/jadvie-studio/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://github.com/SystemTN/jadvie-studio/raw/master/zip/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">JadViE Studio</summary>
+		<summary lang="en">Phim Thuyết Minh và Phụ Đề Việt @JadViE Studio</summary>
 		<description lang="en">Cập nhật phim chiếu rạp với phụ đề Việt hoặc Thuyết minh bởi JadViE Studio sớm nhất.</description>
-		<disclaimer lang="en">Tất cả nội dung được lấy từ Internet vì vậy chúng tôi không chịu trách nhiệm về chất lượng cũng như sự ổn định - JadViE chỉ dịch thuật hoặc thuyết minh tiếng Việt.</disclaimer>
+		<disclaimer lang="en">Tất cả nội dung được lấy từ Internet vì vậy chúng tôi không chịu trách nhiệm về bản quyền hay pháp luật Việt Nam.</disclaimer>
+		<news>Phiên bản JadViE Studio trên Kodi</news>
+		<license>@JadViE Studio 2017</license>
+		<website>http://nethd.org/</website>
+		<source>Raw phim sưu tầm từ nhiều nguồn ở Internet</source>
 		<email>jadvie@nethd.org</email>
 		<platform>all</platform>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshot-04.jpg</screenshot>
+			<screenshot>resources/screenshot-05.jpg</screenshot>
+		</assets>
 	</extension>
 </addon>
