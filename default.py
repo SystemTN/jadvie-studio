@@ -20,11 +20,10 @@ def add_video_item(url, infolabels, img=''):
     xbmcplugin.addDirectoryItem(plugin_handle, url, listitem)
     return
 
-
-add_video_item('https://od.lk/d/ODVfMzMyODAzM18/Save.Me.Ep03.part1.fix.mp4',{ 'title': 'JadViE'}, icon)
-add_video_item('https://och8og.bn1303.livefilestore.com/y4m5rkOZBvOOJ-gGpplG-jqWtc-nSidUbjuJG98DrP6sDmHVStCpsXrsC1zExxfhDWPjOHVV2KWFqFYvXDv83P1ogMoo_LPetbzgZ9Y_HPl-erNXXkcYtf84ukeAxB5Qt29teJa3OkrBrdXGvSw1rYxiXVpR9kySuJHyhArZ42TJmm5ussNWfZ-8O-ZrV9VUH0Q/Buddies.in.India.2017.TM.mp4?download&psid=1',{ 'title': 'JadViE'}, icon)
+add_video_item('http://download013.fshare.vn/dl/0YagMgGelKfM5DLYYJG2TsEV31WqYBpbYnMwtWXLO56FAp1Z0K5084MSg9-ndoyJxzLXJ7PtS9BzEgrH/Minions.2015.ViE.720p.HC.HDRip.X264.AC3-Toy.mkv',{ 'title': 'FShare.VN'}, icon)
+add_video_item('https://od.lk/d/ODVfMzMyODAzM18/Save.Me.Ep03.part1.fix.mp4',{ 'title': 'OpenDrive'}, icon)
+add_video_item('https://och8og.bn1303.livefilestore.com/y4m5rkOZBvOOJ-gGpplG-jqWtc-nSidUbjuJG98DrP6sDmHVStCpsXrsC1zExxfhDWPjOHVV2KWFqFYvXDv83P1ogMoo_LPetbzgZ9Y_HPl-erNXXkcYtf84ukeAxB5Qt29teJa3OkrBrdXGvSw1rYxiXVpR9kySuJHyhArZ42TJmm5ussNWfZ-8O-ZrV9VUH0Q/Buddies.in.India.2017.TM.mp4?download&psid=1',{ 'title': 'OneDrive'}, icon)
 add_video_item('https://fsb1.weshare.me/f007911de9ad2762/BEN_V_MUN_1H.mp4?download_token=c81ad062ee814d98b4ad3c3c8a4f255f36828c17037a18a22b5a456d77d93e8c',{ 'title': 'Football'}, icon)
-add_video_item('https://filedn.com/lz8bImMGXfW0qwGWxcotF35/Because.This.Is.My.First.Life.E01.171009.360p-NEXT.mkv',{ 'title': 'Football'}, icon)
+add_video_item('https://filedn.com/lz8bImMGXfW0qwGWxcotF35/Because.This.Is.My.First.Life.E01.171009.360p-NEXT.mkv',{ 'title': 'pCloud'}, icon)
 xbmcplugin.endOfDirectory(plugin_handle)
 sys.exit(0)
-
