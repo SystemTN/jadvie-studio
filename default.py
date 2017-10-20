@@ -31,5 +31,9 @@ add_video_item('https://onedrive.live.com/download?cid=295BD6ACA1A92117&resid=29
 add_video_item('https://fsb1.weshare.me/f007911de9ad2762/BEN_V_MUN_1H.mp4?download_token=c81ad062ee814d98b4ad3c3c8a4f255f36828c17037a18a22b5a456d77d93e8c',{ 'title': 'Football'}, icon)
 
 add_video_item('https://filedn.com/lz8bImMGXfW0qwGWxcotF35/Because.This.Is.My.First.Life.E01.171009.360p-NEXT.mkv',{ 'title': 'pCloud'}, icon)
+
+add_video_item('https://goo.gl/czAuCq',{ 'title': 'Yandex'}, icon)
+
+add_video_item('https://www.hidrive.strato.com/wget/Lo4Oyqiw',{ 'HiDrive': 'Yandex'}, icon)
 xbmcplugin.endOfDirectory(plugin_handle)
 sys.exit(0)
