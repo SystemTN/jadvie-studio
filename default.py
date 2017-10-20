@@ -26,7 +26,7 @@ add_video_item('https://od.lk/d/ODVfMzMyODAzM18/Save.Me.Ep03.part1.fix.mp4',{ 't
 
 add_video_item('https://och8og.bn1303.livefilestore.com/y4m5rkOZBvOOJ-gGpplG-jqWtc-nSidUbjuJG98DrP6sDmHVStCpsXrsC1zExxfhDWPjOHVV2KWFqFYvXDv83P1ogMoo_LPetbzgZ9Y_HPl-erNXXkcYtf84ukeAxB5Qt29teJa3OkrBrdXGvSw1rYxiXVpR9kySuJHyhArZ42TJmm5ussNWfZ-8O-ZrV9VUH0Q/Buddies.in.India.2017.TM.mp4?download&psid=1',{ 'title': 'Buddies in India 2017 - Thuyết Minh - Đại Náo Thiên Trúc 2017'}, img='https://i.moveek.com/media/cache/poster/media/cef8eb6517ee00a078347f51da0bcd27453ba27d.jpg')
 
-add_video_item('https://onedrive.live.com/download?cid=295BD6ACA1A92117&resid=295BD6ACA1A92117%219966&authkey=AKeM3zwrHZCvgQ4',{ 'title': 'Detective Dee 2017 - Thuyết Minh - Địch Nhân Kiệt Kỳ Án 2017'}, icon)
+add_video_item('https://onedrive.live.com/download?cid=295BD6ACA1A92117&resid=295BD6ACA1A92117%219966&authkey=AKeM3zwrHZCvgQ4',{ 'title': 'Detective Dee 2017 - Thuyết Minh - Địch Nhân Kiệt Kỳ Án 2017'}, img='https://vuviphim.com/wp-content/uploads/2017/05/Dich-Nhan-Kiet-Ky-An-Detective-Dee-2017-Poster.jpg')
 
 add_video_item('https://fsb1.weshare.me/f007911de9ad2762/BEN_V_MUN_1H.mp4?download_token=c81ad062ee814d98b4ad3c3c8a4f255f36828c17037a18a22b5a456d77d93e8c',{ 'title': 'Football'}, icon)
 
