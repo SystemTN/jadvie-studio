@@ -32,8 +32,5 @@ add_video_item('https://fsb1.weshare.me/f007911de9ad2762/BEN_V_MUN_1H.mp4?downlo
 
 add_video_item('https://filedn.com/lz8bImMGXfW0qwGWxcotF35/Because.This.Is.My.First.Life.E01.171009.360p-NEXT.mkv',{ 'title': 'pCloud'}, icon)
 
-add_video_item('https://goo.gl/czAuCq',{ 'title': 'Yandex'}, icon)
-
-add_video_item('https://www.hidrive.strato.com/wget/Lo4Oyqiw',{ 'title': 'HiDrive'}, icon)
 xbmcplugin.endOfDirectory(plugin_handle)
 sys.exit(0)
