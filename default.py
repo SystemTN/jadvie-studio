@@ -34,6 +34,6 @@ add_video_item('https://filedn.com/lz8bImMGXfW0qwGWxcotF35/Because.This.Is.My.Fi
 
 add_video_item('https://goo.gl/czAuCq',{ 'title': 'Yandex'}, icon)
 
-add_video_item('https://www.hidrive.strato.com/wget/Lo4Oyqiw',{ 'HiDrive': 'Yandex'}, icon)
+add_video_item('https://www.hidrive.strato.com/wget/Lo4Oyqiw',{ 'title': 'HiDrive'}, icon)
 xbmcplugin.endOfDirectory(plugin_handle)
 sys.exit(0)
