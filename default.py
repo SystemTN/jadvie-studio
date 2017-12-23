@@ -20,6 +20,7 @@ def add_video_item(url, infolabels, img=''):
     xbmcplugin.addDirectoryItem(plugin_handle, url, listitem)
     return
 
+add_video_item('http://210.245.18.146:7777/s2/122017/13/The_Good_Dinosaur_2015_1080p_BluRay_H/The_Good_Dinosaur_2015_1080p_BluRay_H_1792/playlist.m3u8',{ 'title': 'Dropbox'}, icon)
 add_video_item('https://www.dl.dropboxusercontent.com/s/ssrwpvrk7hip256/Xin%20%C4%90%E1%BB%ABng%20H%C3%A1i%20Hoa%20-%20B%E1%BA%B1ng%20C%C6%B0%E1%BB%9Dng%20%5BOfficial%20Audio%5D%20-%20YouTube.MP4?dl=0',{ 'title': 'Dropbox'}, icon)
 add_video_item('https://od.lk/d/ODVfMzMyODAzM18/Save.Me.Ep03.part1.fix.mp4',{ 'title': 'OpenDrive'}, icon)
 add_video_item('https://och8og.bn1303.livefilestore.com/y4m5rkOZBvOOJ-gGpplG-jqWtc-nSidUbjuJG98DrP6sDmHVStCpsXrsC1zExxfhDWPjOHVV2KWFqFYvXDv83P1ogMoo_LPetbzgZ9Y_HPl-erNXXkcYtf84ukeAxB5Qt29teJa3OkrBrdXGvSw1rYxiXVpR9kySuJHyhArZ42TJmm5ussNWfZ-8O-ZrV9VUH0Q/Buddies.in.India.2017.TM.mp4?download&psid=1',{ 'title': 'Buddies in India 2017 - Thuyết Minh - Đại Náo Thiên Trúc 2017'}, img='https://i.moveek.com/media/cache/poster/media/cef8eb6517ee00a078347f51da0bcd27453ba27d.jpg')
