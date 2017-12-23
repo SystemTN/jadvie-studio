@@ -20,6 +20,7 @@ def add_video_item(url, infolabels, img=''):
     xbmcplugin.addDirectoryItem(plugin_handle, url, listitem)
     return
 
+add_video_item('http://210.245.18.146:7777/s2/122017/22/Justice_League_2017_1080p_HDTV/Justice_League_2017_1080p_HDTV_1792/playlist.m3u8',{ 'title': 'Justice League 2017 1080p HDTV'}, icon)
 add_video_item('http://210.245.18.146:7777/s2/122017/13/The_Good_Dinosaur_2015_1080p_BluRay_H/The_Good_Dinosaur_2015_1080p_BluRay_H_1792/playlist.m3u8',{ 'title': 'Dropbox'}, icon)
 add_video_item('https://www.dl.dropboxusercontent.com/s/ssrwpvrk7hip256/Xin%20%C4%90%E1%BB%ABng%20H%C3%A1i%20Hoa%20-%20B%E1%BA%B1ng%20C%C6%B0%E1%BB%9Dng%20%5BOfficial%20Audio%5D%20-%20YouTube.MP4?dl=0',{ 'title': 'Dropbox'}, icon)
 add_video_item('https://od.lk/d/ODVfMzMyODAzM18/Save.Me.Ep03.part1.fix.mp4',{ 'title': 'OpenDrive'}, icon)
